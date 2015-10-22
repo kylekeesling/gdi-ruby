@@ -12,23 +12,22 @@ Ready to start programming? Want to learn one language that you can use to build
 
 Ruby is an open source language that powers applications and products like Hulu, LivingSocial, Groupon, and Github. There is a thriving, friendly community of users, and the job market for developers is strong.
 
-Through this five course series, you'll get a throrough introduction to programming fundamentals with Ruby. We'll use the Interactive RuBy shell; write command line programs that use loops, conditionals, methods, and classes; and learn the basics of object oriented programming. We'll mix lecture and practice, and help guide you through the coursework.
+Through this five course series, you'll get a thorough introduction to programming fundamentals with Ruby. We'll use the Interactive RuBy shell; write command line programs that use loops, conditionals, methods, and classes; and learn the basics of object oriented programming. We'll mix lecture and practice, and help guide you through the coursework.
 
 We'll spend part of the first class meeting setting up your development environment, so there's no need to install software ahead of time. Just bring your laptop and be prepared to start coding!
 
 **Cost:**
-$60 per student
+- $60 per student
 
 **Dates:**
-Session 0: Thursday, October 29, 2015 (6:30 p.m.-8:30 p.m.)
-Session 1: Tuesday, November 3, 2015 (6:30 p.m. - 8:30 p.m.)
-Session 2: Thursday, November 5, 2015 (6:30 p.m. - 8:30 p.m.)
-Session 3: Tuesday, November 10, 2015 (6:30 p.m. - 8:30 p.m.)
-Session 4: Thursday, November 12, 2015 (6:30 p.m. - 8:30 p.m.)
+- Session 0: Thursday, October 29, 2015 (6:30 p.m.-8:30 p.m.)
+- Session 1: Tuesday, November 3, 2015 (6:30 p.m. - 8:30 p.m.)
+- Session 2: Thursday, November 5, 2015 (6:30 p.m. - 8:30 p.m.)
+- Session 3: Tuesday, November 10, 2015 (6:30 p.m. - 8:30 p.m.)
+- Session 4: Thursday, November 12, 2015 (6:30 p.m. - 8:30 p.m.)
 
 **Location:**
-International Medical Group
-2960 N Meridian St, Indianapolis, IN
+- International Medical Group - 2960 N Meridian St, Indianapolis, IN
 
 
 ### Prerequisites:
@@ -48,7 +47,7 @@ An interest in programming and be comfortable using a computer.
 
  - Class 0 - Installfest & Intro to Command Line
 
-    Get your developement environment set up on your machine. Install Ruby, Rails, and Git, with the assistance of some helpful volunteers. We'll also have a brief lecture on working with the command line.
+    Get your development environment set up on your machine. Install Ruby, Rails, and Git, with the assistance of some helpful volunteers. We'll also have a brief lecture on working with the command line.
 
  - Class 1 - Intro to programming in Ruby
 
