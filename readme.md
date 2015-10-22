@@ -1,6 +1,6 @@
 # Intro to Ruby
 
-The slides for this course can be viewed [here](http://cherimarie.github.io/gdi-ruby)
+The slides for this course can be viewed [here](http://kylekeesling.github.io/gdi-ruby)
 
 This is an Intro to Ruby course. All material by Cheri Allen and Heather Moore. Thanks to Chris Pine and Sandi Metz for inspirational books.
 
@@ -17,12 +17,18 @@ Through this five course series, you'll get a throrough introduction to programm
 We'll spend part of the first class meeting setting up your development environment, so there's no need to install software ahead of time. Just bring your laptop and be prepared to start coding!
 
 **Cost:**
+$60 per student
 
 **Dates:**
+Session 0: Thursday, October 29, 2015 (6:30 p.m.-8:30 p.m.)
+Session 1: Tuesday, November 3, 2015 (6:30 p.m. - 8:30 p.m.)
+Session 2: Thursday, November 5, 2015 (6:30 p.m. - 8:30 p.m.)
+Session 3: Tuesday, November 10, 2015 (6:30 p.m. - 8:30 p.m.)
+Session 4: Thursday, November 12, 2015 (6:30 p.m. - 8:30 p.m.)
 
 **Location:**
-
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
+International Medical Group
+2960 N Meridian St, Indianapolis, IN
 
 
 ### Prerequisites:
@@ -59,4 +65,3 @@ An interest in programming and be comfortable using a computer.
  - Class 4 - Object Oriented Programming, part II
 
     We will expand our knowledge of OOP by discussing classes and inheritance. We will tie together everything we've learned with a relatively complex, totally fun final project.
-
